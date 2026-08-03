@@ -15,6 +15,11 @@ This repository contains my solutions to competitive programming problems across
         <ul>
             <li>
                 <strong>01-500</strong>
+                <ul>
+                    <li>
+                        <a href="https://www.codechef.com/problems/VARDIGS">Varied Digits</a>
+                    </li>
+                </ul>
             </li>
             <li>
                 <strong>02-500-1000</strong>
