@@ -54,7 +54,7 @@ This repository contains my solutions to competitive programming problems across
         </ul>
     </li>
 </ul>
-<a href="https://codeforces.com/">Code-Forces</a>
+<h3><a href="https://codeforces.com/">Code-Forces</a></h3>
 <ul>
     <li>
         <strong>01-800</strong>
@@ -87,7 +87,7 @@ This repository contains my solutions to competitive programming problems across
         </ul>
     </li>
 </ul>
-<a href="https://leetcode.com/">Leet-Code</a>
+<h3><a href="https://leetcode.com/">Leet-Code</a></h3>
 <ul>
     <li>
         <strong>Greedy</strong>
