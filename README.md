@@ -9,7 +9,7 @@ This repository contains my solutions to competitive programming problems across
 **Tanvir Rahman Anik**
 
 <h2>📂 Repository Structure</h2>
-<ul>
+<ul style="list-style: none;">
     <li>
         <h3><a href="https://www.codechef.com/">Code-Chef</a></h3>
         <ul>
