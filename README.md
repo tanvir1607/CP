@@ -19,6 +19,9 @@ This repository contains my solutions to competitive programming problems across
                     <li>
                         <a href="https://www.codechef.com/problems/VARDIGS">Varied Digits</a>
                     </li>
+                    <li>
+                        <a href="https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF">Cricket World Cup Qualifier</a>
+                    </li>
                 </ul>
             </li>
             <li>
