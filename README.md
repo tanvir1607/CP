@@ -19,13 +19,15 @@ This repository contains my solutions to competitive programming problems across
                     <li>
                         <a href="https://www.codechef.com/problems/VARDIGS">Varied Digits</a>
                     </li>
-                    <li>
-                        <a href="https://www.codechef.com/problems/GPUBUY">Buying GPU</a>
-                    </li>
                 </ul>
             </li>
             <li>
                 <strong>02-500-1000</strong>
+                <ul>
+                    <li>
+                        <a href="https://www.codechef.com/problems/GPUBUY">Buying GPU</a>
+                    </li>
+                </ul>
             </li>
             <li>
                 <strong>03-1000-1400</strong>
