@@ -58,7 +58,6 @@ This repository contains my solutions to competitive programming problems across
       <th>Solution</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>2167G</td>
