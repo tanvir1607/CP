@@ -8,8 +8,138 @@ This repository contains my solutions to competitive programming problems across
 
 **Tanvir Rahman Anik**
 
+# 📊 Statistics
 
+**Total Problems Solved:** 509
 
+<details>
+<summary><strong>Breakdown by Difficulty</strong></summary>
+
+| Difficulty | Problems |
+| :--------: | :------: |
+|    800     |   120    |
+|    900     |   150    |
+|    1000    |   100    |
+|    1100    |    70    |
+|   1200+    |    69    |
+
+</details>
+
+<details>
+<summary><strong>Breakdown by Tags</strong></summary>
+
+| Tag            | Problems |
+| :------------- | -------: |
+| Implementation |      150 |
+| Greedy         |       80 |
+| Math           |       70 |
+| Binary Search  |       50 |
+| DP             |       40 |
+| Graphs         |       30 |
+
+</details>
+
+<br>
+
+<div align="center">
+
+# 📋 Solution Index
+
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Problem ID</th>
+      <th>Problem Name</th>
+      <th>Difficulty</th>
+      <th>Tags</th>
+      <th>Question</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>2167G</td>
+      <td>G Mukham... and the Smooth Array</td>
+      <td>1600</td>
+      <td>
+        <code>data structures</code>
+        <code>dp</code>
+      </td>
+      <td>
+        <a href="QUESTION_URL">View</a>
+      </td>
+      <td>
+        <a href="SOLUTION_URL">Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>821C</td>
+      <td>C Okabe and Boxes</td>
+      <td>1500</td>
+      <td>
+        <code>data structures</code>
+        <code>greedy</code>
+      </td>
+      <td>
+        <a href="QUESTION_URL">View</a>
+      </td>
+      <td>
+        <a href="SOLUTION_URL">Code</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>455A</td>
+      <td>A Boredom</td>
+      <td>1500</td>
+      <td>
+        <code>dp</code>
+      </td>
+      <td>
+        <a href="QUESTION_URL">View</a>
+      </td>
+      <td>
+        <a href="SOLUTION_URL">Code</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>2106D</td>
+      <td>D Flower Boy</td>
+      <td>1500</td>
+      <td>
+        <code>binary search</code>
+        <code>dp</code>
+      </td>
+      <td>
+        <a href="QUESTION_URL">View</a>
+      </td>
+      <td>
+        <a href="SOLUTION_URL">Code</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>816B</td>
+      <td>B Karen and Coffee</td>
+      <td>1400</td>
+      <td>
+        <code>binary search</code>
+        <code>data structures</code>
+      </td>
+      <td>
+        <a href="QUESTION_URL">View</a>
+      </td>
+      <td>
+        <a href="SOLUTION_URL">Code</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 <h2>📂 Repository Structure</h2>
 
 <h3><a href="https://www.codechef.com/">Code-Chef</a></h3>
