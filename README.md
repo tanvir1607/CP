@@ -52,7 +52,6 @@ This repository contains my solutions to competitive programming problems across
         <a href="SOLUTION_URL">Code</a>
       </td>
     </tr>
-
     <tr>
       <td>455A</td>
       <td>A Boredom</td>
@@ -67,7 +66,6 @@ This repository contains my solutions to competitive programming problems across
         <a href="SOLUTION_URL">Code</a>
       </td>
     </tr>
-
     <tr>
       <td>2106D</td>
       <td>D Flower Boy</td>
@@ -83,7 +81,6 @@ This repository contains my solutions to competitive programming problems across
         <a href="SOLUTION_URL">Code</a>
       </td>
     </tr>
-
     <tr>
       <td>816B</td>
       <td>B Karen and Coffee</td>
@@ -99,7 +96,6 @@ This repository contains my solutions to competitive programming problems across
         <a href="SOLUTION_URL">Code</a>
       </td>
     </tr>
-
   </tbody>
 </table>
 <h2>📂 Repository Structure</h2>
