@@ -8,44 +8,7 @@ This repository contains my solutions to competitive programming problems across
 
 **Tanvir Rahman Anik**
 
-# 📊 Statistics
 
-**Total Problems Solved:** 509
-
-<details>
-<summary><strong>Breakdown by Difficulty</strong></summary>
-
-| Difficulty | Problems |
-| :--------: | :------: |
-|    800     |   120    |
-|    900     |   150    |
-|    1000    |   100    |
-|    1100    |    70    |
-|   1200+    |    69    |
-
-</details>
-
-<details>
-<summary><strong>Breakdown by Tags</strong></summary>
-
-| Tag            | Problems |
-| :------------- | -------: |
-| Implementation |      150 |
-| Greedy         |       80 |
-| Math           |       70 |
-| Binary Search  |       50 |
-| DP             |       40 |
-| Graphs         |       30 |
-
-</details>
-
-<br>
-
-<div align="center">
-
-# 📋 Solution Index
-
-</div>
 
 <table>
   <thead>
