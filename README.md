@@ -34,6 +34,11 @@ This repository contains my solutions to competitive programming problems across
             </li>
             <li>
                 <strong>03-1000-1400</strong>
+                <ul>
+                    <li>
+                        <a href="https://www.codechef.com/problems/UPDWPAL?tab=statement">Up-Down Palindrome</a>
+                    </li>
+                </ul>
             </li>
             <li>
                 <strong>04-1400-1600</strong>
