@@ -11,6 +11,26 @@ This repository contains my solutions to competitive programming problems across
 <h2>📂 Repository Structure</h2>
 <ul>
     <li>
+        <a href="https://www.codechef.com/">Code-Chef</a>
+        <ul>
+            <li>
+                <strong>01-500</strong>
+            </li>
+            <li>
+                <strong>02-500-1000</strong>
+            </li>
+            <li>
+                <strong>03-1000-1400</strong>
+            </li>
+            <li>
+                <strong>04-1400-1600</strong>
+            </li>
+            <li>
+                <strong>05-1600-1800</strong>
+            </li>
+        </ul>
+    </li>
+    <li>
         <a href="https://codeforces.com/">Code-Forces</a>
         <ul>
             <li>
