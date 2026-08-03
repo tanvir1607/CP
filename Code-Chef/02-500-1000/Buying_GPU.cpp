@@ -16,7 +16,7 @@ int main()
         int x, y, z;
         cin >> x >> y >> z;
         if (y >= z) cout << -1 << endl;
-        else cout << (x + z - y - 1)  / (z - y) << endl;
+        else cout << (x + (z - y - 1))  / (z - y) << endl;
     }
 
     return 0;
