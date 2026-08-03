@@ -27,6 +27,9 @@ This repository contains my solutions to competitive programming problems across
                     <li>
                         <a href="https://www.codechef.com/problems/GPUBUY">Buying GPU</a>
                     </li>
+                    <li>
+                        <a href="https://www.codechef.com/problems/PRDEXC">Product Exceed</a>
+                    </li>
                 </ul>
             </li>
             <li>
