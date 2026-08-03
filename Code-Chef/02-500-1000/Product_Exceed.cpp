@@ -15,11 +15,11 @@ int main()
     {
         int x, y, p;
         cin >> x >> y >> p;
+
         int ans = 0;
         while (x * y < p)
         {
-            if (x * (y + 1) > (x + 1) * y) y++;
-            else x++;
+            x > y ? y++ : x++;
             ans++;
         }
         cout << ans << endl;
