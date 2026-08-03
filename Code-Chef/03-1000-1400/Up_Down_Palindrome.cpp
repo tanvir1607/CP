@@ -6,7 +6,6 @@ typedef long long ll;
 #define endl '\n'
 #define optimize() ios::sync_with_stdio(false); cin.tie(nullptr);
 
-
 bool isPalindrome(vector<int> vec, int val)
 {
     for (int &x : vec) x <= val ? x++ : x--;
@@ -14,7 +13,6 @@ bool isPalindrome(vector<int> vec, int val)
         if (vec[i] != vec[j]) return false;
     return true;
 }
-
 
 int main()
 {
