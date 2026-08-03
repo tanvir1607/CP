@@ -8,6 +8,8 @@ This repository contains my solutions to competitive programming problems across
 
 **Tanvir Rahman Anik**
 
+
+
 <h2>📂 Repository Structure</h2>
 
 <h3><a href="https://www.codechef.com/">Code-Chef</a></h3>
@@ -16,10 +18,13 @@ This repository contains my solutions to competitive programming problems across
         <strong>01-500</strong>
         <ul>
             <li>
-                <a href="https://www.codechef.com/problems/VARDIGS">Varied Digits</a>
+                <a href="https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD">Best Coupon</a>
             </li>
             <li>
                 <a href="https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF">Cricket World Cup Qualifier</a>
+            </li>
+            <li>
+                <a href="https://www.codechef.com/problems/VARDIGS">Varied Digits</a>
             </li>
         </ul>
     </li>
