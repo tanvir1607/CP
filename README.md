@@ -63,6 +63,12 @@ This repository contains my solutions to competitive programming problems across
                             455. Assign Cookies
                         </a>
                     </li>
+                    <li>
+                        <a href="https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=greedy"
+                        >
+                            561. Array Partition
+                        </a>
+                    </li>
                 </ul>
             </li>
             <li>
