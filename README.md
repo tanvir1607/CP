@@ -67,6 +67,11 @@ This repository contains my solutions to competitive programming problems across
                     A. Divide and Conquer
                 </a>
             </li>
+            <li>
+                <a href="https://codeforces.com/contest/2236/problem/A">
+                    A. Games on the Train
+                </a>
+            </li>
         </ul>
     </li>
     <li>
