@@ -5,8 +5,8 @@ This repository contains my solutions to competitive programming problems across
 ```
 
 ## 👨‍💻 Author
-**Tanvir Rahman Anik**
 
+**Tanvir Rahman Anik**
 
 <h2 align="center">📂 Repository Structure</h2>
 
@@ -70,6 +70,11 @@ This repository contains my solutions to competitive programming problems across
             <li>
                 <a href="https://codeforces.com/contest/2236/problem/A">
                     A. Games on the Train
+                </a>
+            </li>
+            <li>
+                <a href="https://codeforces.com/contest/2236/problem/B">
+                    B. Tatar TV Show
                 </a>
             </li>
         </ul>
@@ -147,4 +152,4 @@ This repository contains my solutions to competitive programming problems across
             </li>
         </ul>
     </li>
-</ul> 
+</ul>
