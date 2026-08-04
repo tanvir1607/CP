@@ -87,6 +87,11 @@ This repository contains my solutions to competitive programming problems across
                     B. Discounts
                 </a>
             </li>
+            <li>
+                <a href="https://codeforces.com/contest/2236/problem/C">
+                    C. Omsk Programmers
+                </a>
+            </li>
         </ul>
     </li>
 </ul>
