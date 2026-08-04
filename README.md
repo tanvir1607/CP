@@ -5,99 +5,9 @@ This repository contains my solutions to competitive programming problems across
 ```
 
 ## 👨‍💻 Author
-
 **Tanvir Rahman Anik**
 
 
-
-<table>
-  <thead>
-    <tr>
-      <th>Problem ID</th>
-      <th>Problem Name</th>
-      <th>Difficulty</th>
-      <th>Tags</th>
-      <th>Question</th>
-      <th>Solution</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2167G</td>
-      <td>G Mukham... and the Smooth Array</td>
-      <td>1600</td>
-      <td>
-        <code>data structures</code>
-        <code>dp</code>
-      </td>
-      <td>
-        <a href="QUESTION_URL">View</a>
-      </td>
-      <td>
-        <a href="SOLUTION_URL">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td>821C</td>
-      <td>C Okabe and Boxes</td>
-      <td>1500</td>
-      <td>
-        <code>data structures</code>
-        <code>greedy</code>
-      </td>
-      <td>
-        <a href="QUESTION_URL">View</a>
-      </td>
-      <td>
-        <a href="SOLUTION_URL">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td>455A</td>
-      <td>A Boredom</td>
-      <td>1500</td>
-      <td>
-        <code>dp</code>
-      </td>
-      <td>
-        <a href="QUESTION_URL">View</a>
-      </td>
-      <td>
-        <a href="SOLUTION_URL">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td>2106D</td>
-      <td>D Flower Boy</td>
-      <td>1500</td>
-      <td>
-        <code>binary search</code>
-        <code>dp</code>
-      </td>
-      <td>
-        <a href="QUESTION_URL">View</a>
-      </td>
-      <td>
-        <a href="SOLUTION_URL">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td>816B</td>
-      <td>B Karen and Coffee</td>
-      <td>1400</td>
-      <td>
-        <code>binary search</code>
-        <code>data structures</code>
-      </td>
-      <td>
-        <a href="QUESTION_URL">View</a>
-      </td>
-      <td>
-        <a href="SOLUTION_URL">Code</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 <h2>📂 Repository Structure</h2>
 
 <h3><a href="https://www.codechef.com/">Code-Chef</a></h3>
@@ -227,4 +137,4 @@ This repository contains my solutions to competitive programming problems across
             </li>
         </ul>
     </li>
-</ul>
+</ul> --> 
