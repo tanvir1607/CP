@@ -10,7 +10,7 @@ This repository contains my solutions to competitive programming problems across
 
 <h2 align="center">📂 Repository Structure</h2>
 
-<h3><a href="https://www.codechef.com/">Code-Chef</a></h3>
+<h2><a href="https://www.codechef.com/">Code-Chef</a></h2>
 <ul>
     <li>
         <strong>01-500</strong>
@@ -57,7 +57,7 @@ This repository contains my solutions to competitive programming problems across
         </ul>
     </li>
 </ul>
-<h3><a href="https://codeforces.com/">Code-Forces</a></h3>
+<h2><a href="https://codeforces.com/">Code-Forces</a></h2>
 <ul>
     <li>
         <strong>01-800</strong>
@@ -95,7 +95,7 @@ This repository contains my solutions to competitive programming problems across
         </ul>
     </li>
 </ul>
-<h3><a href="https://leetcode.com/">Leet-Code</a></h3>
+<h2><a href="https://leetcode.com/">Leet-Code</a></h2>
 <ul>
     <li>
         <strong>Greedy</strong>
@@ -142,4 +142,4 @@ This repository contains my solutions to competitive programming problems across
             </li>
         </ul>
     </li>
-</ul> --> 
+</ul> 
