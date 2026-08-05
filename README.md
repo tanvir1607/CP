@@ -5,6 +5,7 @@ This repository contains my solutions to competitive programming problems across
 ```
 
 ## 👨‍💻 Author
+
 **Tanvir Rahman Anik**
 
 <h2>📂 Repository Structure</h2>
@@ -113,6 +114,12 @@ This repository contains my solutions to competitive programming problems across
             <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
             >
                 35. Search Insert Position
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/sqrtx/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                69. Sqrt(x)
             </a>
         </li>
     </ul>
