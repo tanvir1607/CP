@@ -10,7 +10,7 @@ This repository contains my solutions to competitive programming problems across
 
 <h2 align="center">📂 Repository Structure</h2>
 
-<h2><a href="https://www.codechef.com/">Code-Chef</a></h2>
+<!-- <h2><a href="https://www.codechef.com/">Code-Chef</a></h2>
 <ul>
     <li>
         <strong>01-500</strong>
@@ -104,60 +104,61 @@ This repository contains my solutions to competitive programming problems across
             </li>
         </ul>
     </li>
-</ul>
+</ul> -->
+
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
 <h2>Binary Search</h2>
-<ul>
-    <li>
-        <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
-        >
-            35. Search Insert Position
-        </a>
-    </li>
-</ul>
+    <ul>
+        <li>
+            <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                35. Search Insert Position
+            </a>
+        </li>
+    </ul>
 <h2>Greedy</h2>
-<ul>
-    <li>
-        <a href="https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=greedy"
-        >
-            11. Container With Most Water
-        </a>
-    </li>
-    <li>
-        <a href="https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=greedy"
-        >
-            409. Longest Palindrome
-        </a>
-    </li>
-    <li>
-        <a href="https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=greedy"
-        >
-            455. Assign Cookies
-        </a>
-    </li>
-    <li>
-        <a href="https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=greedy"
-        >
-            561. Array Partition
-        </a>
-    </li>
-</ul>
+    <ul>
+        <li>
+            <a href="https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=greedy"
+            >
+                11. Container With Most Water
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=greedy"
+            >
+                409. Longest Palindrome
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=greedy"
+            >
+                455. Assign Cookies
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=greedy"
+            >
+                561. Array Partition
+            </a>
+        </li>
+    </ul>
 <h2>Prefix-Sum</h2>
-<ul>
-    <li>
-        <a href="https://leetcode.com/problems/range-sum-query-immutable/description/"
-        >
-            303. Range Sum Query - Immutable
-        </a>
-    </li>
-</ul>
+    <ul>
+        <li>
+            <a href="https://leetcode.com/problems/range-sum-query-immutable/description/"
+            >
+                303. Range Sum Query - Immutable
+            </a>
+        </li>
+    </ul>
 <h2>Two-Pointers</h2>
-<ul>
-    <li>
-        <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
-        >
-            26. Remove Duplicates from Sorted Array
-        </a>
-    </li>
-</ul>
+    <ul>
+        <li>
+            <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
+            >
+                26. Remove Duplicates from Sorted Array
+            </a>
+        </li>
+    </ul>
