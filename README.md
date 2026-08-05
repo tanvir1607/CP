@@ -1,5 +1,6 @@
 <h1 align="center">Competitive Programming</h1>
-# Competitive Programming
+#Competitive Programming
+
 ```text
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
