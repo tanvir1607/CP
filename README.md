@@ -106,7 +106,7 @@ This repository contains my solutions to competitive programming problems across
     </li>
 </ul>
 <!-- Leet-Code -->
-<h3><a href="https://leetcode.com/">Leet-Code</a></h3>
+<h1><a href="https://leetcode.com/">Leet-Code</a></h1>
 <h2>Binary Search</h2>
 <ul>
     <li>
