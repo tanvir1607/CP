@@ -1,11 +1,10 @@
-# Competitive Programming
+<h1 align="center">Competitive Programming</h1>
 
 ```text
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
 
 ## 👨‍💻 Author
-
 **Tanvir Rahman Anik**
 
 <h2>📂 Repository Structure</h2>
