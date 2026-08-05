@@ -106,7 +106,15 @@ This repository contains my solutions to competitive programming problems across
     </li>
 </ul>
 <h2><a href="https://leetcode.com/">Leet-Code</a></h2>
+<strong>Binary Search</strong>
 <ul>
+    <li>
+        <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
+        >
+            35. Search Insert Position
+        </a>
+    </li>
+</ul>
     <li>
         <strong>Greedy</strong>
         <ul>
