@@ -111,6 +111,12 @@ This repository contains my solutions to competitive programming problems across
 <h2>Binary Search</h2>
     <ul>
         <li>
+            <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                268. Missing Number
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
             >
                 35. Search Insert Position
