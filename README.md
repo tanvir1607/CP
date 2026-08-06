@@ -117,6 +117,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/first-bad-version/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                278. First Bad Version
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
             >
                 35. Search Insert Position
