@@ -129,6 +129,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                350. Intersection of Two Arrays II
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search"
             >
                 35. Search Insert Position
