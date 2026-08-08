@@ -141,6 +141,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/valid-perfect-square/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                367. Valid Perfect Square
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/sqrtx/description/?envType=problem-list-v2&envId=binary-search"
             >
                 69. Sqrt(x)
