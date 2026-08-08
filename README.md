@@ -153,6 +153,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/arranging-coins/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                441. Arranging Coins
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/sqrtx/description/?envType=problem-list-v2&envId=binary-search"
             >
                 69. Sqrt(x)
