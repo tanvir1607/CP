@@ -4,15 +4,19 @@
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
 
+
 ## 📊 Problem Solving Statistics
 
-### LeetCode
+| Online Judge | Topic | Problems Solved |
+|:---|:---|---:|
+| **LeetCode** | 🔍 Binary Search | **11** |
+| **LeetCode** | 🟢 Greedy | **4** |
+| **Codeforces** | — | **0** |
+| **CodeChef** | — | **0** |
+| **Total** | — | **15** |
 
-| Topic | Problems Solved |
-|:---|---:|
-| Binary Search | **11** |
-| Greedy | **4** |
-| **Total** | **15** |
+---
+
 
 
 
