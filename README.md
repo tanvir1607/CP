@@ -4,6 +4,18 @@
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
 
+## 📊 Problem Solving Statistics
+
+### LeetCode
+
+| Topic | Problems Solved |
+|:---|---:|
+| Binary Search | **11** |
+| Greedy | **4** |
+| **Total** | **15** |
+
+
+
 ## 👨‍💻 Author
 
 **Tanvir Rahman Anik**
