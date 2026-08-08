@@ -228,6 +228,12 @@ This repository contains my solutions to competitive programming problems across
                 744. Find Smallest Letter Greater Than Target
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/fair-candy-swap/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                888. Fair Candy Swap
+            </a>
+        </li>
     </ol>
 <h2>Greedy</h2>
     <ul>
