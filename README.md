@@ -49,7 +49,7 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td><strong>Total</strong></td>
     <td>—</td>
-    <td align="right"><strong>15</strong></td>
+    <td align="right"><strong>16</strong></td>
   </tr>
 </table>
 
