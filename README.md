@@ -170,6 +170,12 @@ This repository contains my solutions to competitive programming problems across
                 704. Binary Search
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                744. Find Smallest Letter Greater Than Target
+            </a>
+        </li>
     </ol>
 <h2>Greedy</h2>
     <ul>
