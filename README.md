@@ -25,6 +25,16 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
+    <td>Prefix-Sum</td>
+    <td align="right"><strong>1</strong></td>
+  </tr>
+
+  <tr>
+    <td>Two-Pointers</td>
+    <td align="right"><strong>1</strong></td>
+  </tr>
+
+  <tr>
     <td><strong>Codeforces</strong></td>
     <td>—</td>
     <td align="right"><strong>0</strong></td>
