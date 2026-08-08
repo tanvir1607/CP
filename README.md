@@ -4,18 +4,44 @@
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
 
+<h2>📊 Problem Solving Statistics</h2>
 
-## 📊 Problem Solving Statistics
+<table>
+  <tr>
+    <th>Online Judge</th>
+    <th>Topic</th>
+    <th>Problems Solved</th>
+  </tr>
 
-| Online Judge | Topic | Problems Solved |
-|:---|:---|---:|
-| **LeetCode** | 🔍 Binary Search | **11** |
-| **LeetCode** | 🟢 Greedy | **4** |
-| **Codeforces** | — | **0** |
-| **CodeChef** | — | **0** |
-| **Total** | — | **15** |
+  <tr>
+    <td rowspan="2"><strong>LeetCode</strong></td>
+    <td>🔍 Binary Search</td>
+    <td align="right"><strong>11</strong></td>
+  </tr>
 
----
+  <tr>
+    <td>🟢 Greedy</td>
+    <td align="right"><strong>4</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Codeforces</strong></td>
+    <td>—</td>
+    <td align="right"><strong>0</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>CodeChef</strong></td>
+    <td>—</td>
+    <td align="right"><strong>0</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Total</strong></td>
+    <td>—</td>
+    <td align="right"><strong>15</strong></td>
+  </tr>
+</table>
 
 
 
