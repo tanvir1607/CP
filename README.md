@@ -147,6 +147,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/guess-number-higher-or-lower/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                374. Guess Number Higher or Lower
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/sqrtx/description/?envType=problem-list-v2&envId=binary-search"
             >
                 69. Sqrt(x)
