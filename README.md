@@ -164,6 +164,12 @@ This repository contains my solutions to competitive programming problems across
                 69. Sqrt(x)
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                704. Binary Search
+            </a>
+        </li>
     </ol>
 <h2>Greedy</h2>
     <ul>
