@@ -109,7 +109,7 @@ This repository contains my solutions to competitive programming problems across
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
 <h2>Binary Search</h2>
-    <ul>
+    <ol>
         <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
@@ -158,7 +158,7 @@ This repository contains my solutions to competitive programming problems across
                 69. Sqrt(x)
             </a>
         </li>
-    </ul>
+    </ol>
 <h2>Greedy</h2>
     <ul>
         <li>
