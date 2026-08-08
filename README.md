@@ -15,12 +15,12 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td rowspan="2"><strong>LeetCode</strong></td>
-    <td>🔍 Binary Search</td>
+    <td>Binary Search</td>
     <td align="right"><strong>11</strong></td>
   </tr>
 
   <tr>
-    <td>🟢 Greedy</td>
+    <td>Greedy</td>
     <td align="right"><strong>4</strong></td>
   </tr>
 
