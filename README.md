@@ -285,4 +285,10 @@ This repository contains my solutions to competitive programming problems across
                 27. Remove Element
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=two-pointers"
+            >
+               28. Find the Index of the First Occurrence in a String
+            </a>
+        </li>
     </ol>
