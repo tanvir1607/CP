@@ -272,11 +272,17 @@ This repository contains my solutions to competitive programming problems across
         </li>
     </ul>
 <h2>Two-Pointers</h2>
-    <ul>
+    <ol>
         <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
             >
                 26. Remove Duplicates from Sorted Array
             </a>
         </li>
-    </ul>
+        <li>
+            <a href="https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers"
+            >
+                27. Remove Element
+            </a>
+        </li>
+    </ol>
