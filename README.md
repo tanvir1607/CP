@@ -163,6 +163,12 @@ This repository contains my solutions to competitive programming problems across
 <h2>Binary Search</h2>
     <ol>
         <li>
+            <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                1337. The K Weakest Rows in a Matrix
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
