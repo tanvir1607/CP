@@ -40,18 +40,6 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
-    <td><strong>Codeforces</strong></td>
-    <td>—</td>
-    <td align="center"><strong>00</strong></td>
-  </tr>
-
-  <tr>
-    <td><strong>CodeChef</strong></td>
-    <td>—</td>
-    <td align="center"><strong>00</strong></td>
-  </tr>
-
-  <tr>
     <td><strong>Total</strong></td>
     <td>—</td>
     <td align="center"><strong>16</strong></td>
@@ -66,102 +54,6 @@ This repository contains my solutions to competitive programming problems across
 **Tanvir Rahman Anik**
 
 <h2>📂 Repository Structure</h2>
-
-<!-- <h2><a href="https://www.codechef.com/">Code-Chef</a></h2>
-<ul>
-    <li>
-        <strong>01-500</strong>
-        <ul>
-            <li>
-                <a href="https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD">Best Coupon</a>
-            </li>
-            <li>
-                <a href="https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF">Cricket World Cup Qualifier</a>
-            </li>
-            <li>
-                <a href="https://www.codechef.com/problems/VARDIGS">Varied Digits</a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <strong>02-500-1000</strong>
-        <ul>
-            <li>
-                <a href="https://www.codechef.com/problems/GPUBUY">Buying GPU</a>
-            </li>
-            <li>
-                <a href="https://www.codechef.com/problems/PRDEXC">Product Exceed</a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <strong>03-1000-1400</strong>
-        <ul>
-            <li>
-                <a href="https://www.codechef.com/problems/UPDWPAL?tab=statement">Up-Down Palindrome</a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <strong>04-1400-1600</strong>
-    </li>
-    <li>
-        <strong>05-1600-1800</strong>
-        <ul>
-            <li>
-                <a href="https://www.codechef.com/problems/VALLFLAT">Valley Flattening</a>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h2><a href="https://codeforces.com/">Code-Forces</a></h2>
-<ul>
-    <li>
-        <strong>01-800</strong>
-        <ul>
-            <li>
-                <a href="https://codeforces.com/problemset/problem/2241/A">
-                    A. Divide and Conquer
-                </a>
-            </li>
-            <li>
-                <a href="https://codeforces.com/contest/2236/problem/A">
-                    A. Games on the Train
-                </a>
-            </li>
-            <li>
-                <a href="https://codeforces.com/contest/2236/problem/B">
-                    B. Tatar TV Show
-                </a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <strong>02-900</strong>
-        <ul>
-            <li>
-                <a href="https://codeforces.com/problemset/problem/2093/B">
-                    B. Expensive Number
-                </a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <strong>03-1000</strong>
-        <ul>
-            <li>
-                <a href="https://codeforces.com/problemset/problem/2143/B">
-                    B. Discounts
-                </a>
-            </li>
-            <li>
-                <a href="https://codeforces.com/contest/2236/problem/C">
-                    C. Omsk Programmers
-                </a>
-            </li>
-        </ul>
-    </li>
-</ul> -->
 
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
