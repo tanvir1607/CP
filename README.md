@@ -41,7 +41,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td><strong>Total</strong></td>
-    <td>—</td>
+    <td align="center">——</td>
     <td align="center"><strong>16</strong></td>
   </tr>
 </table>
