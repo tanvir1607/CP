@@ -21,7 +21,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Breadth-First-Search</td>
-    <td align="center"><strong>02</strong></td>
+    <td align="center"><strong>03</strong></td>
   </tr>
 
   <tr>
