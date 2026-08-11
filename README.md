@@ -62,6 +62,12 @@ This repository contains my solutions to competitive programming problems across
 
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
+<h2>Array</h2>
+    <ol>
+        <li>
+            <a href="https://leetcode.com/problems/two-sum/submissions/1920628803/?envType=problem-list-v2&envId=array">1. Two Sum</a>
+        </li>
+    </ol>
 <h2>Binary Search</h2>
     <ol>
         <li>
