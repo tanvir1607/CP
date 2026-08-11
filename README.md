@@ -36,7 +36,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Two-Pointers</td>
-    <td align="center"><strong>01</strong></td>
+    <td align="center"><strong>03</strong></td>
   </tr>
 
   <tr>
