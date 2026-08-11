@@ -14,7 +14,7 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
-    <td rowspan="5"><strong>LeetCode</strong></td>
+    <td rowspan="6"><strong>LeetCode</strong></td>
     <td>Binary Search</td>
     <td align="center"><strong>15</strong></td>
   </tr>
@@ -36,6 +36,11 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Two-Pointers</td>
+    <td align="center"><strong>03</strong></td>
+  </tr>
+
+  <tr>
+    <td>Total</td>
     <td align="center"><strong>03</strong></td>
   </tr>
 
