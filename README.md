@@ -16,7 +16,7 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td rowspan="4"><strong>LeetCode</strong></td>
     <td>Binary Search</td>
-    <td align="right"><strong>13</strong></td>
+    <td align="right"><strong>15</strong></td>
   </tr>
 
   <tr>
