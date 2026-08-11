@@ -169,6 +169,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                1346. Check If N and Its Double Exist
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
