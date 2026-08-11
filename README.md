@@ -18,41 +18,43 @@ This repository contains my solutions to competitive programming problems across
     <td>Binary Search</td>
     <td align="center"><strong>15</strong></td>
   </tr>
-<tr>
+
+  <tr>
     <td>Breadth-First-Search</td>
     <td align="center"><strong>01</strong></td>
-</tr>
+  </tr>
+
   <tr>
     <td>Greedy</td>
-    <td align="right"><strong>4</strong></td>
+    <td align="center"><strong>4</strong></td>
   </tr>
 
   <tr>
     <td>Prefix-Sum</td>
-    <td align="right"><strong>1</strong></td>
+    <td align="center"><strong>1</strong></td>
   </tr>
 
   <tr>
     <td>Two-Pointers</td>
-    <td align="right"><strong>1</strong></td>
+    <td align="center"><strong>1</strong></td>
   </tr>
 
   <tr>
     <td><strong>Codeforces</strong></td>
     <td>—</td>
-    <td align="right"><strong>0</strong></td>
+    <td align="center"><strong>0</strong></td>
   </tr>
 
   <tr>
     <td><strong>CodeChef</strong></td>
     <td>—</td>
-    <td align="right"><strong>0</strong></td>
+    <td align="center"><strong>0</strong></td>
   </tr>
 
   <tr>
     <td><strong>Total</strong></td>
     <td>—</td>
-    <td align="right"><strong>16</strong></td>
+    <td align="center"><strong>16</strong></td>
   </tr>
 </table>
 
