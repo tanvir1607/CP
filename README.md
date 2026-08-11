@@ -21,7 +21,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Breadth-First-Search</td>
-    <td align="center"><strong>01</strong></td>
+    <td align="center"><strong>02</strong></td>
   </tr>
 
   <tr>
@@ -154,6 +154,9 @@ This repository contains my solutions to competitive programming problems across
     <ol>
         <li>
             <a href="https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=breadth-first-search">100. Same Tree</a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/symmetric-tree/description/?envType=problem-list-v2&envId=breadth-first-search">101. Symmetric Tree</a>
         </li>
     </ol>
 <h2>Greedy</h2>
