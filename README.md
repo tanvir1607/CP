@@ -153,10 +153,22 @@ This repository contains my solutions to competitive programming problems across
 <h2>Breadth-First-Search</h2>
     <ol>
         <li>
-            <a href="https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=breadth-first-search">100. Same Tree</a>
+            <a href="https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=breadth-first-search"
+            >
+                100. Same Tree
+            </a>
         </li>
         <li>
-            <a href="https://leetcode.com/problems/symmetric-tree/description/?envType=problem-list-v2&envId=breadth-first-search">101. Symmetric Tree</a>
+            <a href="https://leetcode.com/problems/symmetric-tree/description/?envType=problem-list-v2&envId=breadth-first-search"
+            >
+                101. Symmetric Tree
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=problem-list-v2&envId=breadth-first-search"
+            >
+                104. Maximum Depth of Binary Tree
+            </a>
         </li>
     </ol>
 <h2>Greedy</h2>
