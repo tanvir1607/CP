@@ -9,7 +9,7 @@ This repository contains my solutions to competitive programming problems across
 <table>
   <tr>
     <th>Online Judge</th>
-    <th>Topic</th>
+    <th>Topic / Rating</th>
     <th>Problems Solved</th>
   </tr>
 
