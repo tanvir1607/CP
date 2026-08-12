@@ -61,7 +61,14 @@ This repository contains my solutions to competitive programming problems across
 **Tanvir Rahman Anik**
 
 <h2>📂 Repository Structure</h2>
-
+<!-- Code-Forces -->
+<h1>Code-Forces</h1>
+<h2>800</h2>
+    <ol>
+        <li>
+            <a href="https://codeforces.com/contest/2241/problem/A">A. Divide and Conquer</a>
+        </li>
+    </ol>
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
 <h2>Array</h2>
