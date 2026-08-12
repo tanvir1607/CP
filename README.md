@@ -16,7 +16,7 @@ This repository contains my solutions to competitive programming problems across
   <tr>      
     <td><strong>Code-Forces</strong></td>
     <td>800</td>
-    <td align="center"><strong>03</strong></td>
+    <td align="center"><strong>04</strong></td>
   </td>
 
   <tr>
@@ -81,6 +81,12 @@ This repository contains my solutions to competitive programming problems across
             <a href="https://codeforces.com/problemset/problem/2236/A"
             >
                 A. Games on the Train
+            </a>
+        </li>
+        <li>
+            <a href="https://codeforces.com/contest/1903/problem/A"
+            >
+                A. Halloumi Boxes
             </a>
         </li>
         <li>
