@@ -46,13 +46,13 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Total</td>
-    <td align="center"><strong>24</strong></td>
+    <td align="center"><strong>29</strong></td>
   </tr>
 
   <tr>
     <td><strong>Total</strong></td>
     <td align="center">——</td>
-    <td align="center"><strong>24</strong></td>
+    <td align="center"><strong>29</strong></td>
   </tr>
 </table>
 
