@@ -62,7 +62,7 @@ This repository contains my solutions to competitive programming problems across
 
 <h2>📂 Repository Structure</h2>
 <!-- Code-Forces -->
-<h1>Code-Forces</h1>
+<h1 align="center"><a href="https://codeforces.com/">Code-Forces</a></h1>
 <h2>800</h2>
     <ol>
         <li>
