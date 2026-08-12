@@ -77,6 +77,12 @@ This repository contains my solutions to competitive programming problems across
                 A. Games on the Train
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/2236/B"
+            >
+                B. Tatar TV Show
+            </a>
+        </li>
     </ol>
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
