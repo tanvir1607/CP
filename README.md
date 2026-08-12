@@ -66,7 +66,16 @@ This repository contains my solutions to competitive programming problems across
 <h2>800</h2>
     <ol>
         <li>
-            <a href="https://codeforces.com/contest/2241/problem/A">A. Divide and Conquer</a>
+            <a href="https://codeforces.com/contest/2241/problem/A"
+            >
+                A. Divide and Conquer
+            </a>
+        </li>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/2236/A"
+            >
+                A. Games on the Train
+            </a>
         </li>
     </ol>
 <!-- Leet-Code -->
