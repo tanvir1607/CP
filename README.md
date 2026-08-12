@@ -13,8 +13,14 @@ This repository contains my solutions to competitive programming problems across
     <th>Problems Solved</th>
   </tr>
 
+  <tr>      
+    <td><strong>Code-Forces</strong></td>
+    <td>800</td>
+    <td><strong>01</strong></td>
+  </td>
+
   <tr>
-    <td rowspan="7"><strong>LeetCode</strong></td>
+    <td rowspan="7"><strong>Leet-Code</strong></td>
     <td>Array</td>
     <td align="center"><strong>03</strong></td>
   </tr>
