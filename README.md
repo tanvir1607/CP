@@ -63,7 +63,7 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td><strong>Total</strong></td>
     <td align="center">——</td>
-    <td align="center"><strong>29</strong></td>
+    <td align="center"><strong>33</strong></td>
   </tr>
 </table>
 
