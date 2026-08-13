@@ -107,6 +107,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/problemset/problem/1896/A"
+            >
+                A. Jagged Swaps
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1901/problem/A"
             >
                 A. Line Trip
