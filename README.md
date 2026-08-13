@@ -89,6 +89,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1890/problem/A"
+            >
+                A. Doremy's Paint 3
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/1899/A"
             >
                 A. Game with Integers
