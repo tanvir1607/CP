@@ -89,6 +89,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/problemset/problem/1899/A"
+            >
+                A. Game with Integers
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/2236/A"
             >
                 A. Games on the Train
