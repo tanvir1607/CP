@@ -278,14 +278,14 @@ This repository contains my solutions to competitive programming problems across
         </li>
     </ol>
 <h2>Prefix-Sum</h2>
-    <ul>
+    <ol>
         <li>
             <a href="https://leetcode.com/problems/range-sum-query-immutable/description/"
             >
                 303. Range Sum Query - Immutable
             </a>
         </li>
-    </ul>
+    </ol>
 <h2>Two-Pointers</h2>
     <ol>
         <li>
