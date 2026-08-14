@@ -77,6 +77,12 @@ This repository contains my solutions to competitive programming problems across
 <h2>800</h2>
     <ol>
         <li>
+            <a href="https://codeforces.com/contest/1866/problem/A"
+            >
+                A. Ambitious Kid
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1900/problem/A"
             >
                 A. Cover in Water
