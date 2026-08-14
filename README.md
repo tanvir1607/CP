@@ -148,6 +148,12 @@ This repository contains my solutions to competitive programming problems across
                 B. Tatar TV Show
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/contest/1873/problem/C"
+            >
+                C. Target Practice
+            </a>
+        </li>
     </ol>
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
