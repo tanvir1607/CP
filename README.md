@@ -149,6 +149,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/problemset/problem/1859/A"
+            >
+                A. United We Stand
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1862/problem/B"
             >
                 B. Sequence Game
