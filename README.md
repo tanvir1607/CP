@@ -113,6 +113,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1877/problem/A"
+            >
+                A. Goals of Victory
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1903/problem/A"
             >
                 A. Halloumi Boxes
