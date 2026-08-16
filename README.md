@@ -217,6 +217,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                1385. Find the Distance Value Between Two Arrays
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
