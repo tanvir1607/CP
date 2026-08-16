@@ -32,7 +32,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Binary Search</td>
-    <td align="center"><strong>16</strong></td>
+    <td align="center"><strong>17</strong></td>
   </tr>
 
   <tr>
@@ -57,13 +57,13 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td>Total</td>
-    <td align="center"><strong>30</strong></td>
+    <td align="center"><strong>31</strong></td>
   </tr>
 
   <tr>
     <td><strong>Total</strong></td>
     <td align="center">——</td>
-    <td align="center"><strong>46</strong></td>
+    <td align="center"><strong>47</strong></td>
   </tr>
 </table>
 
