@@ -20,7 +20,7 @@ This repository contains my solutions to competitive programming problems across
   </td>
 
   <tr>
-    <td>Total</td>
+    <td align="center">Total</td>
     <td align="center"><strong>16</strong></td>
   </tr>
 
@@ -56,12 +56,12 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
-    <td>Total</td>
+    <td align="center">Total</td>
     <td align="center"><strong>31</strong></td>
   </tr>
 
   <tr>
-    <td><strong>Total</strong></td>
+    <td align="center"><strong>Total</strong></td>
     <td align="center">——</td>
     <td align="center"><strong>47</strong></td>
   </tr>
