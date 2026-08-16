@@ -223,6 +223,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/kth-missing-positive-number/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                1539. Kth Missing Positive Number
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
