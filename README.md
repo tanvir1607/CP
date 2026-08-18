@@ -161,6 +161,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/2256/problem/A";
+            >
+                A. Three Numbers on the Blackboard
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/1859/A"
             >
                 A. United We Stand
