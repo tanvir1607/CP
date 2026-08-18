@@ -16,12 +16,12 @@ This repository contains my solutions to competitive programming problems across
   <tr>      
     <td rowspan="2"><strong>Code-Forces</strong></td>
     <td>800</td>
-    <td align="center"><strong>17</strong></td>
+    <td align="center"><strong>18</strong></td>
   </td>
 
   <tr>
     <td align="center">Total</td>
-    <td align="center"><strong>17</strong></td>
+    <td align="center"><strong>18</strong></td>
   </tr>
 
   <tr>
@@ -63,7 +63,7 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td align="center"><strong>Total</strong></td>
     <td align="center">——</td>
-    <td align="center"><strong>48</strong></td>
+    <td align="center"><strong>49</strong></td>
   </tr>
 </table>
 
