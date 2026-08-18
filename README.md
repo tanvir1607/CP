@@ -83,6 +83,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/problemset/problem/1858/A"
+            >
+                A. Buttons
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1900/problem/A"
             >
                 A. Cover in Water
