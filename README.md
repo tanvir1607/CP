@@ -25,7 +25,7 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
-    <td rowspan="7"><strong>Leet-Code</strong></td>
+    <td rowspan="8"><strong>Leet-Code</strong></td>
     <td>Array</td>
     <td align="center"><strong>03</strong></td>
   </tr>
@@ -43,6 +43,11 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td>Greedy</td>
     <td align="center"><strong>04</strong></td>
+  </tr>
+
+  <tr>
+    <td>Math</td>
+    <td align="center"><strong>01</strong></td>
   </tr>
 
   <tr>
