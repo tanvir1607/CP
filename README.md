@@ -367,6 +367,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
+<h2>Math</h2>
+    <ol>
+        <li>
+            <a href="https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=math">9. Palindrome Number</a>
+        </li>
+    </ol>
 <h2>Prefix-Sum</h2>
     <ol>
         <li>
