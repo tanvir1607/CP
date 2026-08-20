@@ -25,15 +25,24 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
-    <td rowspan="2"><strong>Leet-Code</strong></td>
-    <td>Array</td>
-    <td align="center"><strong>03</strong></td>
+    <td rowspan="4"><strong>Leet-Code</strong></td>
+    <td>Easy</td>
+    <td align="center"><strong>00</strong></td>
   </tr>
 
+  <tr>
+    <td>Medium</td>
+    <td align="center"><strong>00</strong></td>
+  </tr>
+
+  <tr>
+    <td>Hard</td>
+    <td align="center"><strong>00</strong></td>
+  </tr>
 
   <tr>
     <td align="center">Total</td>
-    <td align="center"><strong>32</strong></td>
+    <td align="center"><strong>00</strong></td>
   </tr>
 
   <tr>
