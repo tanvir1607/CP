@@ -22,7 +22,7 @@ This repository contains my solutions to competitive programming problems across
   </td>
 
   <tr>
-    <td align="center" rowspan="4"><strong>Leet-Code</strong></td>
+    <td align="center" rowspan="3"><strong>Leet-Code</strong></td>
     <td align="center">Easy</td>
     <td align="center"><strong>00</strong></td>
     <td align="center" rowspan="3">00</td>
