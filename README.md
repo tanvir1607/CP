@@ -375,6 +375,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/sqrtx/description/?envType=problem-list-v2&envId=math"
+            >
+                69. Sqrt(x)
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=math"
             >
                 9. Palindrome Number
