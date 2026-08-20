@@ -34,18 +34,18 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td align="center" rowspan="3"><strong>Leet-Code</strong></td>
     <td align="center">Easy</td>
-    <td align="center"><strong>00</strong></td>
-    <td align="center" rowspan="3">00</td>
+    <td align="center"><strong>58</strong></td>
+    <td align="center" rowspan="3">68</td>
   </tr>
 
   <tr>
     <td align="center">Medium</td>
-    <td align="center"><strong>00</strong></td>
+    <td align="center"><strong>09</strong></td>
   </tr>
 
   <tr>
     <td align="center">Hard</td>
-    <td align="center"><strong>00</strong></td>
+    <td align="center"><strong>01</strong></td>
   </tr>
 
   <tr>
