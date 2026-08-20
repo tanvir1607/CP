@@ -9,25 +9,23 @@ This repository contains my solutions to competitive programming problems across
 <table>
   <tr>
     <th>Online Judge</th>
-    <th>Topic / Rating</th>
+    <th>Rating / Difficulty</th>
     <th>Problems Solved</th>
+    <th>Total</th>
   </tr>
 
   <tr>      
-    <td rowspan="2"><strong>Code-Forces</strong></td>
+    <td rowspan="1"><strong>Code-Forces</strong></td>
     <td>800</td>
     <td align="center"><strong>19</strong></td>
+    <td rowspan="1">00</td>
   </td>
-
-  <tr>
-    <td align="center">Total</td>
-    <td align="center"><strong>19</strong></td>
-  </tr>
 
   <tr>
     <td rowspan="4"><strong>Leet-Code</strong></td>
     <td>Easy</td>
     <td align="center"><strong>00</strong></td>
+    <td rowspan="3">00</td>
   </tr>
 
   <tr>
@@ -38,17 +36,6 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td>Hard</td>
     <td align="center"><strong>00</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center">Total</td>
-    <td align="center"><strong>00</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>Total</strong></td>
-    <td align="center">——</td>
-    <td align="center"><strong>51</strong></td>
   </tr>
 </table>
 
