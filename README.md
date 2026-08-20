@@ -15,26 +15,26 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>      
-    <td rowspan="1"><strong>Code-Forces</strong></td>
-    <td>800</td>
+    <td align="center" rowspan="1"><strong>Code-Forces</strong></td>
+    <td align="center">800</td>
     <td align="center"><strong>00</strong></td>
-    <td rowspan="1">00</td>
+    <td align="center" rowspan="1">00</td>
   </td>
 
   <tr>
-    <td rowspan="4"><strong>Leet-Code</strong></td>
-    <td>Easy</td>
+    <td align="center" rowspan="4"><strong>Leet-Code</strong></td>
+    <td align="center">Easy</td>
     <td align="center"><strong>00</strong></td>
-    <td rowspan="3">00</td>
+    <td align="center" rowspan="3">00</td>
   </tr>
 
   <tr>
-    <td>Medium</td>
+    <td align="center">Medium</td>
     <td align="center"><strong>00</strong></td>
   </tr>
 
   <tr>
-    <td>Hard</td>
+    <td align="center">Hard</td>
     <td align="center"><strong>00</strong></td>
   </tr>
 </table>
