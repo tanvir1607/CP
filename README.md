@@ -387,6 +387,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=math"
+            >
+                67. Add Binary
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=math"
             >
                 9. Palindrome Number
