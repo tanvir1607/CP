@@ -37,6 +37,11 @@ This repository contains my solutions to competitive programming problems across
     <td align="center">Hard</td>
     <td align="center"><strong>00</strong></td>
   </tr>
+
+  <tr>
+    <td align="center" colspan="3">Total</td>
+    <td align="center">19</td>
+  </tr>
 </table>
 
 ## 👨‍💻 Author
