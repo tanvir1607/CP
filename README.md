@@ -25,40 +25,11 @@ This repository contains my solutions to competitive programming problems across
   </tr>
 
   <tr>
-    <td rowspan="8"><strong>Leet-Code</strong></td>
+    <td rowspan="2"><strong>Leet-Code</strong></td>
     <td>Array</td>
     <td align="center"><strong>03</strong></td>
   </tr>
 
-  <tr>
-    <td>Binary Search</td>
-    <td align="center"><strong>17</strong></td>
-  </tr>
-
-  <tr>
-    <td>Breadth-First-Search</td>
-    <td align="center"><strong>03</strong></td>
-  </tr>
-
-  <tr>
-    <td>Greedy</td>
-    <td align="center"><strong>04</strong></td>
-  </tr>
-
-  <tr>
-    <td>Math</td>
-    <td align="center"><strong>01</strong></td>
-  </tr>
-
-  <tr>
-    <td>Prefix-Sum</td>
-    <td align="center"><strong>01</strong></td>
-  </tr>
-
-  <tr>
-    <td>Two-Pointers</td>
-    <td align="center"><strong>03</strong></td>
-  </tr>
 
   <tr>
     <td align="center">Total</td>
