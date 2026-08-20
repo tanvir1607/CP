@@ -50,7 +50,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td align="center" colspan="3">Total</td>
-    <td align="center">19</td>
+    <td align="center">87</td>
   </tr>
 </table>
 
