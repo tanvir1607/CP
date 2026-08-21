@@ -363,6 +363,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/excel-sheet-column-title/solutions/?envType=problem-list-v2&envId=math"
+            >
+                168. Excel Sheet Column Title
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=math"
             >
                 66. Plus One
