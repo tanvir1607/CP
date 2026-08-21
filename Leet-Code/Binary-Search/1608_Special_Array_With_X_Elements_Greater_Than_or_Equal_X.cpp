@@ -1,3 +1,21 @@
+// Solution - 01
+class Solution {
+public:
+    int specialArray(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        for (int i = 1; i <= nums.size(); i++) {
+            int cnt = nums.end() - lower_bound(nums.begin(), nums.end(), i);
+            if (cnt == i) return i;
+        }
+        return -1;
+    }
+};
+
+
+
+
+
+// Solution - 02
 class Solution {
 private:
     int lower(vector<int> &vec, int target) {
