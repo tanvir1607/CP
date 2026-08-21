@@ -189,6 +189,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/submissions/2114682185/?envType=problem-list-v2&envId=binary-search"
+            >
+                 1608. Special Array With X Elements Greater Than or Equal X
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/two-sum/submissions/1920628803/?envType=problem-list-v2&envId=array"
             >
                 1. Two Sum
