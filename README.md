@@ -130,6 +130,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/2132/problem/A"
+            >
+                A. Homework
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/1878/A"
             >
                 A. How Much Does Daytona Cost?
