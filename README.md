@@ -154,6 +154,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/2254/problem/A"
+            >
+                A. Riptide
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/2256/problem/A";
             >
                 A. Three Numbers on the Blackboard
