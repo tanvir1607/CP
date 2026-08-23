@@ -136,6 +136,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1837/problem/A"
+            >
+                A. Grasshopper on a Line
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1903/problem/A"
             >
                 A. Halloumi Boxes
