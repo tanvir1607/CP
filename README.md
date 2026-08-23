@@ -88,6 +88,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1853/problem/A"
+            >
+                A. Desorting
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/2241/problem/A"
             >
                 A. Divide and Conquer
