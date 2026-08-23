@@ -202,6 +202,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
+<h2>900</h2>
+    <ol>
+        <li>
+            <a href="https://codeforces.com/contest/2093/problem/B">B. Expensive Number</a>
+        </li>
+    </ol>
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
 <h2>Array</h2>
