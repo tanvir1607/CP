@@ -112,6 +112,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1845/problem/A"
+            >
+                A. Forbidden Integer
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/1899/A"
             >
                 A. Game with Integers
