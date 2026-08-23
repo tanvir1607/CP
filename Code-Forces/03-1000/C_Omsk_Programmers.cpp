@@ -13,19 +13,18 @@ int main()
     cin >> test;
     while (test--)
     {
-        ll a, b, x;
+        int a, b, x;
         cin >> a >> b >> x;
 
-        ll ans = INT_MAX;
-        ll cntOfDivision = 0;
+        int ans = abs(a - b);
+        int divCnt = 0;
         while (a != b)
         {
-            if (a < b) swap(a, b);
-            ans = min(a - b + cntOfDivision, ans);
-            a /= x;
-            cntOfDivision++;
+            if (a > b) swap(a, b);
+            b /= x;
+            divCnt++;
+            ans = min(abs(b - a) + divCnt, ans);
         }
-        ans = min(cntOfDivision, ans);
         cout << ans << endl;
     }
 
