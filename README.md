@@ -205,7 +205,17 @@ This repository contains my solutions to competitive programming problems across
 <h2>900</h2>
     <ol>
         <li>
-            <a href="https://codeforces.com/contest/2093/problem/B">B. Expensive Number</a>
+            <a href="https://codeforces.com/contest/2093/problem/B">
+                B. Expensive Number
+            </a>
+        </li>
+    </ol>
+<h2>1000</h2>
+    <ol>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/2143/B">
+                B. Discounts
+            </a>
         </li>
     </ol>
 <!-- Leet-Code -->
