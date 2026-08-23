@@ -217,6 +217,11 @@ This repository contains my solutions to competitive programming problems across
                 B. Discounts
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/2236/C">
+                C. Omsk Programmers
+            </a>
+        </li>
     </ol>
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
