@@ -18,7 +18,7 @@ This repository contains my solutions to competitive programming problems across
     <td align="center" rowspan="3"><strong>Code-Forces</strong></td>
     <td align="center">800</td>
     <td align="center"><strong>23</strong></td>
-    <td align="center" rowspan="3">24</td>
+    <td align="center" rowspan="3">25</td>
   </tr>
 
   <tr>      
@@ -28,7 +28,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>
     <td align="center">1000</td>
-    <td align="center"><strong>00</strong></td>
+    <td align="center"><strong>01</strong></td>
   </tr>
 
   <tr>
