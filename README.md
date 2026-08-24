@@ -184,6 +184,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1831/problem/A";
+            >
+                A. Twin Permutations
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1834/problem/A";
             >
                 A. Unit Array
