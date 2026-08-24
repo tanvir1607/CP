@@ -124,6 +124,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1766/problem/A"
+            >
+                A. Extremely Round
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1845/problem/A"
             >
                 A. Forbidden Integer
