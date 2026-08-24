@@ -118,6 +118,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1777/problem/A"
+            >
+                A. Everybody Likes Good Arrays!
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1845/problem/A"
             >
                 A. Forbidden Integer
