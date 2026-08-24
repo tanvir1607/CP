@@ -17,8 +17,8 @@ This repository contains my solutions to competitive programming problems across
   <tr>      
     <td align="center" rowspan="3"><strong>Code-Forces</strong></td>
     <td align="center">800</td>
-    <td align="center"><strong>32</strong></td>
-    <td align="center" rowspan="3">37</td>
+    <td align="center"><strong>33</strong></td>
+    <td align="center" rowspan="3">38</td>
   </tr>
 
   <tr>      
