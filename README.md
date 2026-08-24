@@ -82,6 +82,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1814/problem/A"
+            >
+                A. Coins
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1900/problem/A"
             >
                 A. Cover in Water
