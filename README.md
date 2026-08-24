@@ -178,6 +178,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1788/problem/A"
+            >
+                A. One and Two
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/2254/problem/A"
             >
                 A. Riptide
