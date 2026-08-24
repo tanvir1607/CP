@@ -249,6 +249,12 @@ This repository contains my solutions to competitive programming problems across
                 C. Target Practice
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/1791/C"
+            >
+                C. Prepend and Append
+            </a>
+        </li>
     </ol>
 <h2>900</h2>
     <ol>
