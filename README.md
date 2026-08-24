@@ -184,6 +184,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1789/problem/A"
+            >
+                A. Serval and Mocha's Array
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/2256/problem/A";
             >
                 A. Three Numbers on the Blackboard
