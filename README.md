@@ -202,6 +202,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1829/problem/B"
+            >
+                B. Blank Space
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/2244/B"
             >
                 B. Nikita and Books
