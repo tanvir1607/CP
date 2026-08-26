@@ -340,6 +340,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/two-sum/submissions/1920628803/?envType=problem-list-v2&envId=array"
+            >
+                268. Missing Number
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array"
             >
                 26. Remove Duplicates from Sorted Array
