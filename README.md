@@ -352,7 +352,7 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
-            <a href="https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array"
+            <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array"
             >
                 35. Search Insert Position
             </a>
