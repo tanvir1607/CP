@@ -363,6 +363,12 @@ This repository contains my solutions to competitive programming problems across
                 4. Median of Two Sorted Arrays
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=array"
+            >
+                66. Plus One
+            </a>
+        </li>
     </ol>
 <h2>Binary Search</h2>
     <ol>
