@@ -348,7 +348,7 @@ This repository contains my solutions to competitive programming problems across
         <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array"
             >
-                26. Remove Duplicates from Sorted Array
+                27. Remove Element
             </a>
         </li>
         <li>
