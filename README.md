@@ -369,6 +369,12 @@ This repository contains my solutions to competitive programming problems across
                 66. Plus One
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/merge-sorted-array/submissions/2120426130/?envType=problem-list-v2&envId=array"
+            >
+                88. Merge Sorted Array
+            </a>
+        </li>
     </ol>
 <h2>Binary Search</h2>
     <ol>
