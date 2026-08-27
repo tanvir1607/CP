@@ -309,6 +309,11 @@ This repository contains my solutions to competitive programming problems across
                 B. Expensive Number
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/1878/C">
+                C. Vasilije in Cacak
+            </a>
+        </li>
     </ol>
 <h2>1000</h2>
     <ol>
