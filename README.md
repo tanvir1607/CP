@@ -18,12 +18,12 @@ This repository contains my solutions to competitive programming problems across
     <td align="center" rowspan="3"><strong>Code-Forces</strong></td>
     <td align="center">800</td>
     <td align="center"><strong>38</strong></td>
-    <td align="center" rowspan="3">45</td>
+    <td align="center" rowspan="3">46</td>
   </tr>
 
   <tr>      
     <td align="center">900</td>
-    <td align="center"><strong>05</strong></td>
+    <td align="center"><strong>06</strong></td>
   </tr>
 
   <tr>
@@ -302,6 +302,11 @@ This repository contains my solutions to competitive programming problems across
         <li>
             <a href="https://codeforces.com/problemset/problem/1875/A">
                 A. Jellyfish and Undertale
+            </a>
+        </li>
+        <li>
+            <a href="https://codeforces.com/contest/1869/problem/A">
+                A. Make It Zero
             </a>
         </li>
         <li>
