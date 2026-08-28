@@ -353,8 +353,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
+
+
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
+
+
 <h2>Array</h2>
     <ol>
         <li>
@@ -391,6 +395,12 @@ This repository contains my solutions to competitive programming problems across
             <a href="https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array"
             >
                 27. Remove Element
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/range-sum-query-immutable/description/?envType=problem-list-v2&envId=array"
+            >
+                303. Range Sum Query - Immutable
             </a>
         </li>
         <li>
