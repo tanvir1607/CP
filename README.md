@@ -315,6 +315,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1837/problem/B">
+                B. Comparison String
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/2093/B">
                 B. Expensive Number
             </a>
