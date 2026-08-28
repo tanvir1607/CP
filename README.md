@@ -18,12 +18,12 @@ This repository contains my solutions to competitive programming problems across
     <td align="center" rowspan="3"><strong>Code-Forces</strong></td>
     <td align="center">800</td>
     <td align="center"><strong>38</strong></td>
-    <td align="center" rowspan="3">46</td>
+    <td align="center" rowspan="3">48</td>
   </tr>
 
   <tr>      
     <td align="center">900</td>
-    <td align="center"><strong>06</strong></td>
+    <td align="center"><strong>08</strong></td>
   </tr>
 
   <tr>
