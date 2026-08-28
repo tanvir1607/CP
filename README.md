@@ -4,6 +4,7 @@
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
 
+
 <h2>📊 Problem Solving Statistics</h2>
 
 <table>
@@ -59,8 +60,12 @@ This repository contains my solutions to competitive programming problems across
 **Tanvir Rahman Anik**
 
 <h1>📂 Repository Structure</h1>
+
+
 <!-- Code-Forces -->
 <h1 align="center"><a href="https://codeforces.com/">Code-Forces</a></h1>
+
+
 <h2>800</h2>
     <ol>
         <li>
@@ -292,6 +297,8 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
+
+
 <h2>900</h2>
     <ol>
         <li>
@@ -340,6 +347,8 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
+
+
 <h2>1000</h2>
     <ol>
         <li>
@@ -361,6 +370,12 @@ This repository contains my solutions to competitive programming problems across
 
 <h2>Array</h2>
     <ol>
+        <li>
+            <a href="https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=array"
+            >
+                118. Pascal's Triangle
+            </a>
+        </li>
         <li>
             <a href="https://leetcode.com/problems/longest-common-prefix/submissions/2103424745/?envType=problem-list-v2&envId=array"
             >
