@@ -463,6 +463,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/submissions/2122726002/?envType=problem-list-v2&envId=binary-search"
+            >
+                2389. Longest Subsequence With Limited Sum
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
