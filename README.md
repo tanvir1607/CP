@@ -329,6 +329,11 @@ This repository contains my solutions to competitive programming problems across
                 C. Vasilije in Cacak
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/contest/1850/problem/D">
+                D. Balanced Round
+            </a>
+        </li>
     </ol>
 <h2>1000</h2>
     <ol>
