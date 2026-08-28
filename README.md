@@ -315,8 +315,13 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
-            <a href="https://codeforces.com/contest/2093/problem/B">
-                B. Expensive Number
+            <a href="https://codeforces.com/problemset/problem/1883/B">
+                B. Chemistry
+            </a>
+        </li>
+        <li>
+            <a href="https://codeforces.com/contest/1855/problem/B">
+                B. Longest Divisors Interval
             </a>
         </li>
         <li>
