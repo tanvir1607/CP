@@ -315,8 +315,8 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
-            <a href="https://codeforces.com/problemset/problem/1883/B">
-                B. Chemistry
+            <a href="https://codeforces.com/problemset/problem/2093/B">
+                B. Expensive Number
             </a>
         </li>
         <li>
