@@ -457,6 +457,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=problem-list-v2&envId=binary-search"
+            >
+                2089. Find Target Indices After Sorting Array
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
