@@ -377,6 +377,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/pascals-triangle-ii/description/?envType=problem-list-v2&envId=array"
+            >
+                119. Pascal's Triangle II
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/longest-common-prefix/submissions/2103424745/?envType=problem-list-v2&envId=array"
             >
                 14. Longest Common Prefix
