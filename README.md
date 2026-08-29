@@ -379,7 +379,7 @@ This repository contains my solutions to competitive programming problems across
         <li>
             <a href="https://leetcode.com/problems/pascals-triangle-ii/description/?envType=problem-list-v2&envId=array"
             >
-                119. Pascal's Triangle II ⭐
+                119. Pascal's Triangle II
             </a>
             ⭐
         </li>
