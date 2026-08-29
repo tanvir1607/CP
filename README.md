@@ -383,6 +383,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array"
+            >
+                121. Best Time to Buy and Sell Stock
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/longest-common-prefix/submissions/2103424745/?envType=problem-list-v2&envId=array"
             >
                 14. Longest Common Prefix
