@@ -455,6 +455,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/move-zeroes/description/?envType=problem-list-v2&envId=array"
+            >
+                283. Move Zeroes
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/range-sum-query-immutable/description/?envType=problem-list-v2&envId=array"
             >
                 303. Range Sum Query - Immutable
