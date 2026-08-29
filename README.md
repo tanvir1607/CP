@@ -35,8 +35,8 @@ This repository contains my solutions to competitive programming problems across
   <tr>
     <td align="center" rowspan="3"><strong>Leet-Code</strong></td>
     <td align="center">Easy</td>
-    <td align="center"><strong>62</strong></td>
-    <td align="center" rowspan="3">72</td>
+    <td align="center"><strong>71</strong></td>
+    <td align="center" rowspan="3">81</td>
   </tr>
 
   <tr>
