@@ -381,6 +381,7 @@ This repository contains my solutions to competitive programming problems across
             >
                 119. Pascal's Triangle II ⭐
             </a>
+            ⭐
         </li>
         <li>
             <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array"
