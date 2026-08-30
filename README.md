@@ -597,6 +597,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                2824. Count Pairs Whose Sum is Less than Target
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=binary-search"
             >
                 349. Intersection of Two Arrays
