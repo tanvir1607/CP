@@ -717,6 +717,15 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
+<h2>Recursion</h2>
+    <ol>
+        <li>
+            <a href="https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion"
+            >
+                21. Merge Two Sorted Lists
+            </a>
+        </li>
+    </ol>
 <h2>Two-Pointers</h2>
     <ol>
         <li>
