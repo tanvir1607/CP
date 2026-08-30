@@ -579,6 +579,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/minimum-common-value/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                2540. Minimum Common Value
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
