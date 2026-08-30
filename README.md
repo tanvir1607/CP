@@ -522,7 +522,7 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
-<h2>Binary Search - 20</h2>
+<h2>Binary Search - 21</h2>
     <ol>
         <li>
             <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/?envType=problem-list-v2&envId=binary-search"
