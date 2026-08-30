@@ -725,6 +725,12 @@ This repository contains my solutions to competitive programming problems across
                 21. Merge Two Sorted Lists
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=recursion"
+            >
+                231. Power of Two
+            </a>
+        </li>
     </ol>
 <h2>Two-Pointers</h2>
     <ol>
