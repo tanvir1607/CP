@@ -368,7 +368,7 @@ This repository contains my solutions to competitive programming problems across
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
 
 
-<h2>Array - 22</h2>
+<h2>Array - 25</h2>
     <ol>
         <li>
             <a href="https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=array"
