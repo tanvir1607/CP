@@ -368,7 +368,7 @@ This repository contains my solutions to competitive programming problems across
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
 
 
-<h2>Array - 21</h2>
+<h2>Array - 22</h2>
     <ol>
         <li>
             <a href="https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=array"
@@ -471,6 +471,12 @@ This repository contains my solutions to competitive programming problems across
             <a href="https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=array"
             >
                 349. Intersection of Two Arrays
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=problem-list-v2&envId=array"
+            >
+                350. Intersection of Two Arrays II
             </a>
         </li>
         <li>
