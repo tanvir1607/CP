@@ -468,6 +468,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=array"
+            >
+                349. Intersection of Two Arrays
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array"
             >
                 35. Search Insert Position
