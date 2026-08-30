@@ -573,6 +573,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                2529. Maximum Count of Positive Integer and Negative Integer
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search"
             >
                 268. Missing Number
