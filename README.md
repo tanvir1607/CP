@@ -492,6 +492,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=array"
+            >
+                448. Find All Numbers Disappeared in an Array
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=array"
             >
                 4. Median of Two Sorted Arrays
