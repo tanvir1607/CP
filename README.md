@@ -824,5 +824,6 @@ This repository contains my solutions to competitive programming problems across
             >
                88. Merge Sorted Array
             </a>
+            ⭐
         </li>
     </ol>
