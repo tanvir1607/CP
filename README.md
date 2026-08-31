@@ -311,6 +311,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1696/problem/B">
+                B. NIT Destroys the Universe
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1794/problem/B">
                 B. Not Dividing
             </a>
