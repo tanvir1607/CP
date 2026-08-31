@@ -312,6 +312,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1726/problem/A">
+                A. Mainak and Array
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1869/problem/A">
                 A. Make It Zero
             </a>
