@@ -316,6 +316,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1675/problem/B">
+                B. Make It Increasing
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1696/problem/B">
                 B. NIT Destroys the Universe
             </a>
