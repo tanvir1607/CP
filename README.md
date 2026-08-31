@@ -15,7 +15,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>      
     <td align="center"><strong>Code-Forces</strong></td>
-    <td align="center">53</td>
+    <td align="center">54</td>
   </tr>
 
   <tr>      
@@ -268,7 +268,7 @@ This repository contains my solutions to competitive programming problems across
     </ol>
 
 
-<h2>900 - 13</h2>
+<h2>900 - 14</h2>
     <ol>
         <li>
             <a href="https://codeforces.com/contest/1904/problem/A">
