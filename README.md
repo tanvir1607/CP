@@ -517,6 +517,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array"
+            >
+                561. Array Partition
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=array"
             >
                 66. Plus One
