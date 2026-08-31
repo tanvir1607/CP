@@ -508,6 +508,7 @@ This repository contains my solutions to competitive programming problems across
             >
                 463. Island Perimeter
             </a>
+            ⭐
         </li>
         <li>
             <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=array"
