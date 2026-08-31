@@ -529,6 +529,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/find-pivot-index/?envType=problem-list-v2&envId=array"
+            >
+                724. Find Pivot Index
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/merge-sorted-array/submissions/2120426130/?envType=problem-list-v2&envId=array"
             >
                 88. Merge Sorted Array
