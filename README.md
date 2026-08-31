@@ -273,7 +273,6 @@ This repository contains my solutions to competitive programming problems across
         <li>
             <a href="https://codeforces.com/contest/1679/problem/A">
                 A. AvtoBus
-
             </a>
         </li>
         <li>
