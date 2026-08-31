@@ -15,12 +15,12 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>      
     <td align="center"><strong>Code-Forces</strong></td>
-    <td>53</td>
+    <td align="center">53</td>
   </tr>
 
   <tr>      
     <td align="center"><strong>Leet-Code</strong></td>
-    <td>81</td>
+    <td align="center">81</td>
   </tr>
 </table>
 
