@@ -337,6 +337,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1828/problem/B">
+                B. Permutation Swap
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/1878/C">
                 C. Vasilije in Cacak
             </a>
