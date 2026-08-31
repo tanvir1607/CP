@@ -351,6 +351,11 @@ This repository contains my solutions to competitive programming problems across
                 D. Balanced Round
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/problemset/problem/1807/D">
+                D. Odd Queries
+            </a>
+        </li>
     </ol>
 
 
