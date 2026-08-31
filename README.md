@@ -799,7 +799,7 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
-<h2>Two-Pointers</h2>
+<h2>Two-Pointers - 04</h2>
     <ol>
         <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
@@ -817,6 +817,12 @@ This repository contains my solutions to competitive programming problems across
             <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=two-pointers"
             >
                28. Find the Index of the First Occurrence in a String
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=two-pointers"
+            >
+               88. Merge Sorted Array
             </a>
         </li>
     </ol>
