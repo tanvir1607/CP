@@ -271,6 +271,12 @@ This repository contains my solutions to competitive programming problems across
 <h2>900 - 14</h2>
     <ol>
         <li>
+            <a href="https://codeforces.com/contest/1679/problem/A">
+                A. AvtoBus
+
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1904/problem/A">
                 A. Forked!
             </a>
