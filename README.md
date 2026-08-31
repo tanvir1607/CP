@@ -337,6 +337,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1794/problem/B">
+                B. Not Dividing
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1828/problem/B">
                 B. Permutation Swap
             </a>
