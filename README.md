@@ -346,6 +346,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1666/problem/D">
+                D. Deletive Editing
+            </a>
+            ⭐
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/1807/D">
                 D. Odd Queries
             </a>
