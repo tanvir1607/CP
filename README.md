@@ -336,6 +336,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1593/problem/B">
+                B. Make it Divisible by 25
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1696/problem/B">
                 B. NIT Destroys the Universe
             </a>
