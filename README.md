@@ -341,6 +341,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1607/problem/B">
+                B. Odd Grasshopper
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1828/problem/B">
                 B. Permutation Swap
             </a>
