@@ -326,6 +326,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/problemset/problem/1582/B">
+                B. Luntik and Subsequences
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1624/problem/B">
                 B. Make AP
             </a>
