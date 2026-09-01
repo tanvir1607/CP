@@ -15,7 +15,7 @@ This repository contains my solutions to competitive programming problems across
 
   <tr>      
     <td align="center"><strong>Code-Forces</strong></td>
-    <td align="center">60</td>
+    <td align="center">62</td>
   </tr>
 
   <tr>      
