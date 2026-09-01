@@ -268,7 +268,7 @@ This repository contains my solutions to competitive programming problems across
     </ol>
 
 
-<h2>900 - 20</h2>
+<h2>900 - 21</h2>
     <ol>
         <li>
             <a href="https://codeforces.com/contest/1606/problem/A">
