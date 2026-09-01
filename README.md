@@ -321,6 +321,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1624/problem/B">
+                B. Make AP
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1675/problem/B">
                 B. Make It Increasing
             </a>
