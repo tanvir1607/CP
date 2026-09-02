@@ -502,6 +502,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/?envType=problem-list-v2&envId=binary-search"
+            >
+                2970. Count the Number of Incremovable Subarrays I
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/range-sum-query-immutable/description/?envType=problem-list-v2&envId=array"
             >
                 303. Range Sum Query - Immutable
