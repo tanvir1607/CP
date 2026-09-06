@@ -775,6 +775,12 @@ This repository contains my solutions to competitive programming problems across
                 561. Array Partition
             </a>
         </li>
+        <li>
+            <a href="https://leetcode.com/problems/can-place-flowers/description/?envType=problem-list-v2&envId=greedy"
+            >
+                605. Can Place Flowers
+            </a>
+        </li>
     </ol>
 <h2>Math</h2>
     <ol>
