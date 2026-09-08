@@ -557,6 +557,13 @@ This repository contains my solutions to competitive programming problems across
             ⭐
         </li>
         <li>
+            <a href="https://leetcode.com/problems/max-consecutive-ones/description/?envType=problem-list-v2&envId=array"
+            >
+                485. Max Consecutive Ones
+            </a>
+            ⭐
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=array"
             >
                 4. Median of Two Sorted Arrays
