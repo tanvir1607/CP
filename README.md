@@ -188,6 +188,12 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/problemset/problem/2271/A"
+            >
+                A. Robot Odd Moves
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/contest/1789/problem/A"
             >
                 A. Serval and Mocha's Array
