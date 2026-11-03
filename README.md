@@ -403,6 +403,11 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/contest/1913/problem/B">
+                B. Swap and Delete
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/problemset/problem/2236/C">
                 C. Omsk Programmers
             </a>
