@@ -395,7 +395,7 @@ This repository contains my solutions to competitive programming problems across
     </ol>
 
 
-<h2>1000 - 3</h2>
+<h2>1000 - 4</h2>
     <ol>
         <li>
             <a href="https://codeforces.com/problemset/problem/2143/B">
