@@ -881,6 +881,18 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
         <li>
+            <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=two-pointers"
+            >
+                160. Intersection of Two Linked Lists
+            </a>
+        </li>
+        <li>
+            <a href="https://leetcode.com/problems/happy-number/description/?envType=problem-list-v2&envId=two-pointers"
+            >
+                202. Happy Number
+            </a>
+        </li>
+        <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
             >
                 26. Remove Duplicates from Sorted Array
