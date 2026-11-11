@@ -885,6 +885,7 @@ This repository contains my solutions to competitive programming problems across
             >
                 160. Intersection of Two Linked Lists
             </a>
+            ⭐
         </li>
         <li>
             <a href="https://leetcode.com/problems/happy-number/description/?envType=problem-list-v2&envId=two-pointers"
