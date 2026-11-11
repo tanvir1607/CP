@@ -891,6 +891,7 @@ This repository contains my solutions to competitive programming problems across
             >
                 202. Happy Number
             </a>
+            ⭐
         </li>
         <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
