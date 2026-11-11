@@ -1,21 +1,41 @@
 // Solution - 01
 class Solution {
 public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = m - 1;
-        int j = n  - 1;
-        while (j >= 0)
+    bool isPalindrome(string s) {
+        int l = 0, r = s.size() - 1;
+        while (l < r)
         {
-            if (i >= 0 && nums1[i] >= nums2[j]) 
+            if (!isalnum(s[l]))
             {
-                nums1[i + j + 1] = nums1[i];
-                i--;
+                l++;
+                continue;
             }
-            else 
+            if (!isalnum(s[r]))
             {
-                nums1[i + j + 1] = nums2[j];
-                j--;
+                r--;
+                continue;
             }
+
+            if (tolower(s[l]) != tolower(s[r])) return false;
+            l++;
+            r--;
         }
+        return true;
+    }
+};
+
+
+
+
+
+// Solution - 02
+class Solution {
+public:
+    bool isPalindrome(string s) {
+        string str = "";
+        for (char ch : s) isalnum(ch) && (str += tolower(ch), true);
+        string rev = str;
+        reverse(rev.begin(), rev.end());
+        return str == rev;
     }
 };
