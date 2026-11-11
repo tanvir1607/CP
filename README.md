@@ -4,7 +4,6 @@
 This repository contains my solutions to competitive programming problems across various platforms.
 ```
 
-
 <h2>📊 Problem Solving Statistics</h2>
 
 <table>
@@ -30,10 +29,8 @@ This repository contains my solutions to competitive programming problems across
 
 <h1>📂 Repository Structure</h1>
 
-
 <!-- Code-Forces -->
 <h1 align="center"><a href="https://codeforces.com/">Code-Forces</a></h1>
-
 
 <h2>800 - 38</h2>
     <ol>
@@ -273,7 +270,6 @@ This repository contains my solutions to competitive programming problems across
         </li>
     </ol>
 
-
 <h2>900 - 23</h2>
     <ol>
         <li>
@@ -394,7 +390,6 @@ This repository contains my solutions to competitive programming problems across
         </li>
     </ol>
 
-
 <h2>1000 - 4</h2>
     <ol>
         <li>
@@ -419,10 +414,8 @@ This repository contains my solutions to competitive programming problems across
         </li>
     </ol>
 
-
 <!-- Leet-Code -->
 <h1 align="center"><a href="https://leetcode.com/">Leet-Code</a></h1>
-
 
 <h2>Array - 30</h2>
     <ol>
@@ -875,6 +868,12 @@ This repository contains my solutions to competitive programming problems across
     </ol>
 <h2>Two-Pointers - 04</h2>
     <ol>
+        <li>
+            <a href="https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=two-pointers"
+            >
+                125. Valid Palindrome
+            </a>
+        </li>
         <li>
             <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
             >
