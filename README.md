@@ -866,7 +866,7 @@ This repository contains my solutions to competitive programming problems across
             </a>
         </li>
     </ol>
-<h2>Two-Pointers - 04</h2>
+<h2>Two-Pointers - 05</h2>
     <ol>
         <li>
             <a href="https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=two-pointers"
