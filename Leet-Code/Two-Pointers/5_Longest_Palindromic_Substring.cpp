@@ -1,80 +1,31 @@
+// Solution - 01 - Brute Force - Got TLE
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        int size = s.size();
-        int start = 0;
-        int maxLen = 1;
-
-        for (int i = 0; i < size; i++)
-        {
-            int l = i;
-            int r = i;
-            while (l >= 0 && r < size && s[l] == s[r])
-            {
-                if (r - l + 1 > maxLen)
-                {
-                    start = l;
-                    maxLen = r - l + 1;
-                }
-                l--;
-                r++;
-            }
-
-            l = i;
-            r = i + 1;
-            while (l >= 0 && r < size && s[l] == s[r])
-            {
-                if (r - l + 1 > maxLen)
-                {
-                    start = l;
-                    maxLen = r - l + 1;
-                }
-                l--;
-                r++;
-            }
-        }
-        return s.substr(start, maxLen);
-    }
-};
-
-
-
-
-
-
-
-
-
-
-
-class Solution {
-public:
-    bool isPalindrome(string s) {
+    bool isPalindrome(string s) 
+    {
         int l = 0, r = s.size() - 1;
-
-        while (l < r) {
+        while (l < r) 
+        {
             if (s[l] != s[r]) return false;
             l++;
             r--;
         }
-
         return true;
     }
 
-    string longestPalindrome(string s) {
-        int n = s.size();
+    string longestPalindrome(string s) 
+    {
+        int size = s.size();
         string ans = "";
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
+        for (int i = 0; i < size; i++) 
+        {
+            for (int j = i; j < size; j++) 
+            {
                 string temp = s.substr(i, j - i + 1);
-
-                if (temp.size() > ans.size() && isPalindrome(temp)) {
+                if (isPalindrome(temp) && temp.size() > ans.size()) 
                     ans = temp;
-                }
             }
         }
-
         return ans;
     }
 };
@@ -83,41 +34,34 @@ public:
 
 
 
-
-
-
-
-
-
-
+// Solution - 02 - Expand Around Center
 class Solution {
 public:
-    string longestPalindrome(string s) {
+    void expand(string &s, int l, int r, int &start, int &maxLen)
+    {
         int n = s.size();
-        bool dp[1001][1001] = {};
-
-        int start = 0, maxLen = 1;
-
-        for (int i = 0; i < n; i++)
-            dp[i][i] = true;
-
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-
-                if (s[i] == s[j]) {
-                    if (len == 2 || dp[i + 1][j - 1]) {
-                        dp[i][j] = true;
-
-                        if (len > maxLen) {
-                            start = i;
-                            maxLen = len;
-                        }
-                    }
-                }
+        while (l >= 0 && r < n && s[l] == s[r])
+        {
+            if (r - l + 1 > maxLen)
+            {
+                start = l;
+                maxLen = r - l + 1;
             }
+            l--;
+            r++;
         }
+    }
 
+    string longestPalindrome(string s) 
+    {
+        int size = s.size();
+        int start = 0;
+        int maxLen = 1;
+        for (int i = 0; i < size; i++)
+        {
+            expand(s, i, i, start, maxLen);
+            expand(s, i, i + 1, start, maxLen);
+        }
         return s.substr(start, maxLen);
     }
 };
