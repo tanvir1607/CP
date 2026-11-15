@@ -1,4 +1,4 @@
-// Solution - 01 - Got TLE
+// Solution - 01 - Brute Force - Got TLE
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k)
