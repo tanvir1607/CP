@@ -1,29 +1,28 @@
 // Solution - 01 - Brute Force - Got TLE
 class Solution {
-public:
-    bool isPalindrome(string s) 
+private:
+    bool isPalindrome(string str)
     {
-        int l = 0, r = s.size() - 1;
-        while (l < r) 
+        int l = 0, r = str.size() - 1;
+        while (l < r)
         {
-            if (s[l] != s[r]) return false;
+            if (str[l] != str[r]) return false;
             l++;
             r--;
         }
         return true;
     }
 
+public:
     string longestPalindrome(string s) 
     {
-        int size = s.size();
         string ans = "";
-        for (int i = 0; i < size; i++) 
+        for (int i = 0; i < s.size(); i++)
         {
-            for (int j = i; j < size; j++) 
+            for (int j = i; j < s.size(); j++)
             {
                 string temp = s.substr(i, j - i + 1);
-                if (isPalindrome(temp) && temp.size() > ans.size()) 
-                    ans = temp;
+                if (isPalindrome(temp) && temp.size() > ans.size()) ans = temp;
             }
         }
         return ans;
@@ -36,11 +35,10 @@ public:
 
 // Solution - 02 - Expand Around Center
 class Solution {
-public:
-    void expand(string &s, int l, int r, int &start, int &maxLen)
+private:
+    void expand(string s, int l, int r, int &start, int &maxLen)
     {
-        int n = s.size();
-        while (l >= 0 && r < n && s[l] == s[r])
+        while (l >= 0 && r < s.size() && s[l] == s[r])
         {
             if (r - l + 1 > maxLen)
             {
@@ -52,6 +50,7 @@ public:
         }
     }
 
+public:
     string longestPalindrome(string s) 
     {
         int size = s.size();
