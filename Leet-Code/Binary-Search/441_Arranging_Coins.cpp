@@ -7,7 +7,7 @@ public:
         while (l <= r)
         {
             int mid = l + (r - l) / 2;
-            long long coins = 1LL * mid * (mid + 1) / 2;
+            long long coins = mid * (mid + 1) / 2;
             if (coins <= n) l = mid + 1, ans = mid;
             else r = mid - 1;
         }
