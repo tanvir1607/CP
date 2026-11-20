@@ -1,13 +1,15 @@
 // Solution - 01
 class Solution {
 public:
-    int specialArray(vector<int>& nums) {
+    int specialArray(vector<int>& nums) 
+    {
         sort(nums.begin(), nums.end());
-        for (int i = 1; i <= nums.size(); i++) {
+        for (int i = 0; i <= nums.size(); i++)
+        {
             int cnt = nums.end() - lower_bound(nums.begin(), nums.end(), i);
-            if (cnt == i) return i;
-        }
-        return -1;
+            if (i == cnt) return i;
+        }   
+        return -1; 
     }
 };
 
@@ -18,11 +20,12 @@ public:
 // Solution - 02
 class Solution {
 private:
-    int lower(vector<int> &vec, int target) {
-        int l = 0;
-        int r = vec.size() - 1;
+    int lower(vector<int> vec, int target)
+    {
+        int l = 0, r = vec.size() - 1;
         int ans = vec.size();
-        while (l <= r) {
+        while (l <= r)
+        {
             int mid = l + (r - l) / 2;
             if (vec[mid] >= target) r = mid - 1, ans = mid;
             else l = mid + 1;
@@ -31,13 +34,14 @@ private:
     }
 
 public:
-    int specialArray(vector<int>& nums) {
+    int specialArray(vector<int>& nums) 
+    {
         sort(nums.begin(), nums.end());
-        int size = nums.size();
-        for (int i = 1; i <= size; i++) {
-            int lb = lower(nums, i);
-            if (size - lb == i) return i;
-        }
-        return -1;
+        for (int i = 0; i <= nums.size(); i++)
+        {
+            int cnt = nums.size() - lower(nums, i);
+            if (i == cnt) return i;
+        }   
+        return -1; 
     }
 };
