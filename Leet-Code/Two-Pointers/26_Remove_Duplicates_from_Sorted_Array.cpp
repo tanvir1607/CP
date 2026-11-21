@@ -6,17 +6,12 @@ public:
         int l = 0, r = 0;
         while (r < nums.size())
         {
-            if (nums[l] != nums[r])
-            {
-                l++;
-                nums[l] = nums[r];
-            }
+            if (nums[l] != nums[r]) nums[++l] = nums[r];
             r++;
         }
         return l + 1;
     }
 };
-
 
 
 
@@ -33,9 +28,7 @@ public:
         {
             while (r < size && nums[l] == nums[r]) r++;
             if (r == size) break;
-            l++;
-            nums[l] = nums[r];
-            r++;
+            nums[++l] = nums[r];
         }
         return l + 1;
     }
