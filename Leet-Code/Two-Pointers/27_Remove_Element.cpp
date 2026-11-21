@@ -1,39 +1,14 @@
 // Solution - 01
 class Solution {
 public:
-    int removeElement(vector<int>& nums, int val) {
-        int l = 0, r = 0;
-        while (r < nums.size())
+    int removeElement(vector<int>& nums, int val) 
+    {
+        int idx = 0;
+        for (int num : nums)
         {
-            if (nums[r] != val)
-            {
-                nums[l] = nums[r];
-                l++;
-            }
-            r++;
+            if (num != val) nums[idx++] = num;
         }
-        return l;
-    }
-};
-
-
-
-
-
-// Solution - 01 - Modified
-class Solution {
-public:
-    int removeElement(vector<int>& nums, int val) {
-        int l = 0, r = 0;
-        while (r < nums.size())
-        {
-            while (r < nums.size() && nums[r] == val) r++;
-            if (r == nums.size()) break;
-            nums[l] = nums[r];
-            l++;
-            r++;
-        }
-        return l;
+        return idx;
     }
 };
 
@@ -44,17 +19,15 @@ public:
 // Solution - 02
 class Solution {
 public:
-    int removeElement(vector<int>& nums, int val) {
-        int idx = 0;
-        for (int num : nums) 
+    int removeElement(vector<int>& nums, int val) 
+    {
+        int l = 0, r = 0;
+        while (r < nums.size())
         {
-            if (num != val)
-            {
-                nums[idx] = num;
-                idx++;
-            }
+            if (nums[r] != val) nums[l++] = nums[r];
+            r++;
         }
-        return idx;
+        return l;
     }
 };
 
@@ -62,11 +35,19 @@ public:
 
 
 
-// Solution - 03
+// Solution - 02 - Modified
 class Solution {
 public:
-    int removeElement(vector<int>& nums, int val) {
-        nums.erase(remove(nums.begin(), nums.end(), val), nums.end());
-        return nums.size();
+    int removeElement(vector<int>& nums, int val) 
+    {
+        int l = 0, r = 0;
+        int size = nums.size();
+        while (r < nums.size())
+        {
+            while (r < size && nums[r] == val) r++;
+            if (r == size) break;
+            nums[l++] = nums[r++];
+        }
+        return l;
     }
 };
