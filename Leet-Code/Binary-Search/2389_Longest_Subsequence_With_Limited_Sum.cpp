@@ -1,24 +1,32 @@
 class Solution {
 private:
-    int upper(vector<int> &vec, int target) {
-        int l = 0;
-        int r = vec.size() - 1;
+    int upper(vector<int> vec, int target)
+    {
+        int l = 0, r = vec.size() - 1;
         int ans = vec.size();
-        while (l <= r) {
+        while (l <= r)
+        {
             int mid = l + (r - l) / 2;
-            if (vec[mid] > target) ans = mid, r = mid - 1;
+            if (vec[mid] > target) r = mid - 1, ans = mid;
             else l = mid + 1;
         }
         return ans;
     }
-    
+
 public:
-    vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
+    vector<int> answerQueries(vector<int>& nums, vector<int>& queries) 
+    {
         sort(nums.begin(), nums.end());
-        vector<int> prefix(nums.size()), ans;
-        prefix[0] = nums[0];
-        for (int i = 1; i < prefix.size(); i++) prefix[i] = prefix[i - 1] + nums[i];
-        for (int x : queries) ans.push_back(upper(prefix, x));
+        
+        int size = nums.size();
+        vector<int> pre(size), ans;
+        pre[0] = nums[0];
+        for (int i = 1; i < size; i++) pre[i] = pre[i - 1] + nums[i];
+        for(int x : queries)
+        {
+            int ub = upper(pre, x);
+            ans.push_back(ub);
+        }
         return ans;
     }
 };
