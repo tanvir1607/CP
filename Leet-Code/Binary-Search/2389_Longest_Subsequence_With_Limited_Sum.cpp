@@ -22,11 +22,7 @@ public:
         vector<int> pre(size), ans;
         pre[0] = nums[0];
         for (int i = 1; i < size; i++) pre[i] = pre[i - 1] + nums[i];
-        for(int x : queries)
-        {
-            int ub = upper(pre, x);
-            ans.push_back(ub);
-        }
+        for(int x : queries) ans.push_back(upper(pre, x));
         return ans;
     }
 };
