@@ -7,8 +7,7 @@ private:
         while (l < r)
         {
             if (str[l] != str[r]) return false;
-            l++;
-            r--;
+            l++, r--;
         }
         return true;
     }
@@ -16,10 +15,11 @@ private:
 public:
     string longestPalindrome(string s) 
     {
+        int size = s.size();
         string ans = "";
-        for (int i = 0; i < s.size(); i++)
+        for (int i = 0; i < size; i++)
         {
-            for (int j = i; j < s.size(); j++)
+            for (int j = i; j < size; j++)
             {
                 string temp = s.substr(i, j - i + 1);
                 if (isPalindrome(temp) && temp.size() > ans.size()) ans = temp;
@@ -36,17 +36,16 @@ public:
 // Solution - 02 - Expand Around Center
 class Solution {
 private:
-    void expand(string s, int l, int r, int &start, int &maxLen)
+    int start = 0;
+    int maxLen = 1;
+
+    void expand(string &s, int l, int r)
     {
         while (l >= 0 && r < s.size() && s[l] == s[r])
         {
-            if (r - l + 1 > maxLen)
-            {
-                start = l;
-                maxLen = r - l + 1;
-            }
-            l--;
-            r++;
+            int len = r - l + 1;
+            if (len > maxLen) start = l, maxLen = len;
+            l--, r++;
         }
     }
 
@@ -54,12 +53,10 @@ public:
     string longestPalindrome(string s) 
     {
         int size = s.size();
-        int start = 0;
-        int maxLen = 1;
-        for (int i = 0; i < size; i++)
+        for (int i = 0; i < size; i++) 
         {
-            expand(s, i, i, start, maxLen);
-            expand(s, i, i + 1, start, maxLen);
+            expand(s, i, i);      // Odd Length
+            expand(s, i, i + 1);  // Even Length
         }
         return s.substr(start, maxLen);
     }
