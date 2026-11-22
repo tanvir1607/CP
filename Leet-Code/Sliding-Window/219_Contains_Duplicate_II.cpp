@@ -1,15 +1,16 @@
 // Solution - 01 - Brute Force - Got TLE
 class Solution {
 public:
-    bool containsNearbyDuplicate(vector<int>& nums, int k)
+    bool containsNearbyDuplicate(vector<int>& nums, int k) 
     {
-        for (int i = 0; i < nums.size() - 1; i++)
+        int size = nums.size();
+        for (int i = 0; i < size; i++)
         {
-            for (int j = i + 1; j < nums.size(); j++)
+            for (int j = i + 1; j < size && j <= i + k; j++)
             {
-                if (nums[i] == nums[j] && (j - i) <= k) return true;
+                if (nums[i] == nums[j]) return true;
             }
-        }
+        }    
         return false;
     }
 };
@@ -21,12 +22,13 @@ public:
 // Solution - 02
 class Solution {
 public:
-    bool containsNearbyDuplicate(vector<int>& nums, int k)
+    bool containsNearbyDuplicate(vector<int>& nums, int k) 
     {
-        set<int> Set;
+        int size = nums.size();
+        unordered_set<int> Set;
         for (int i = 0; i < nums.size(); i++)
         {
-            if (i > k) Set.erase(nums[i - k - 1]);
+            if (i > k) Set.erase(nums[i - k  - 1]);
             if (Set.count(nums[i])) return true;
             Set.insert(nums[i]);
         }
