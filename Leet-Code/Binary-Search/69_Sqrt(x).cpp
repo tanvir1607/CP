@@ -5,7 +5,7 @@ public:
         if (x < 2) return x;
 
         int l = 1, r = x / 2;
-        int ans = 0;
+        int ans = 1;
         while (l <= r)
         {
             int mid = l + (r - l) / 2;
