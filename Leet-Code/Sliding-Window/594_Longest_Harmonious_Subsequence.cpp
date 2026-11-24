@@ -31,7 +31,7 @@ public:
         sort(nums.begin(), nums.end());
         int l = 0, r = 0;
         int ans = 0, size = nums.size();
-        while (r < nums.size())
+        while (r < size)
         {
             while (r < size && nums[r] - nums[l] <= 1) r++;
             if (nums[r - 1] - nums[l] == 1) ans = max(r - l, ans);
