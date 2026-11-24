@@ -1,4 +1,4 @@
-// Solution - 02
+// Solution - 01
 class Solution {
 public:
     int countGoodSubstrings(string s) 
