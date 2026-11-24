@@ -9,7 +9,7 @@ int main()
 {
     optimize();
 
-    ll num;
+    int num;
     cin >> num;
     cout << num << " ";
     while (num != 1)
