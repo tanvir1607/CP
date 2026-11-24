@@ -1,20 +1,7 @@
 // Solution - 01
 class Solution {
-public:
-    int searchInsert(vector<int>& nums, int target) 
-    {
-        return lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-    }
-};
-
-
-
-
-
-// Solution - 02 - Lower Function Implemented
-class Solution {
 private:
-    int lower(vector<int> nums, int target)
+    int lower(vector<int> &nums, int target)
     {
         int l = 0, r = nums.size() - 1;
         int ans = nums.size();
@@ -38,7 +25,7 @@ public:
 
 
 
-// Solution - 03 - Lower Function Implemented
+// Solution - 02
 class Solution {
 private:
     int lower(vector<int> nums, int target)
