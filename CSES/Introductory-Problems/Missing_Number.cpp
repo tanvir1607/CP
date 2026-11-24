@@ -12,13 +12,13 @@ int main()
 
     int size;
     cin >> size;
-    vector<int> vec(size);
+    vector<int> vec(size - 1);
     for (int &x : vec) cin >> x;
 
     sort(vec.begin(), vec.end());
     for (int i = 1; i <= size; i++)
     {
-        if (vec[i] != i)
+        if (vec[i - 1] != i)
         {
             cout << i << endl;
             break;
